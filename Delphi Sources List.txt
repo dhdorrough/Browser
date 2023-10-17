@@ -1,0 +1,42 @@
+Source files copied to: C:\Temp\
+    Date/Time: 10/17/2023 1:49:53 PM
+
+Copied:           F:\NDAS-I\d7\Projects\Browser\Browser.dpr
+Copied:           F:\NDAS-I\d7\Projects\Browser\GotoRecNo.pas
+Copied:           F:\NDAS-I\d7\Projects\Browser\GotoRecNo.dfm
+Copied:           F:\NDAS-I\d7\Projects\MyUtils\MyUtils.pas
+Copied:           F:\NDAS-I\d7\Projects\TP\Orpheus\source\O32SR.pas
+Copied:           F:\NDAS-I\d7\Projects\TP\Orpheus\source\ovcbase.pas
+Copied:           F:\NDAS-I\d7\Projects\TP\Orpheus\source\OvcBCalc.pas
+Copied:           F:\NDAS-I\d7\Projects\TP\Orpheus\source\OvcBordr.pas
+Copied:           F:\NDAS-I\d7\Projects\TP\Orpheus\source\ovcCalc.pas
+Copied:           F:\NDAS-I\d7\Projects\TP\Orpheus\source\OvcCaret.pas
+Copied:           F:\NDAS-I\d7\Projects\TP\Orpheus\source\OvcCmd.pas
+Copied:           F:\NDAS-I\d7\Projects\TP\Orpheus\source\OvcColor.pas
+Copied:           F:\NDAS-I\d7\Projects\TP\Orpheus\source\OvcConst.pas
+Copied:           F:\NDAS-I\d7\Projects\TP\Orpheus\source\OvcData.pas
+Copied:           F:\NDAS-I\d7\Projects\TP\Orpheus\source\OvcDate.pas
+Copied:           F:\NDAS-I\d7\Projects\TP\Orpheus\source\OvcEdClc.pas
+Copied:           F:\NDAS-I\d7\Projects\TP\Orpheus\source\OvcEditF.pas
+Copied:           F:\NDAS-I\d7\Projects\TP\Orpheus\source\ovcEdPop.pas
+Copied:           F:\NDAS-I\d7\Projects\TP\Orpheus\source\ovcef.pas
+Copied:           F:\NDAS-I\d7\Projects\TP\Orpheus\source\OvcExcpt.pas
+Copied:           F:\NDAS-I\d7\Projects\TP\Orpheus\source\OvcIntl.pas
+Copied:           F:\NDAS-I\d7\Projects\TP\Orpheus\source\OvcMisc.pas
+Copied:           F:\NDAS-I\d7\Projects\TP\Orpheus\source\ovcnf.pas
+Copied:           F:\NDAS-I\d7\Projects\TP\Orpheus\source\ovcpb.pas
+Copied:           F:\NDAS-I\d7\Projects\TP\Orpheus\source\OvcStr.pas
+Copied:           F:\NDAS-I\d7\Projects\TP\Orpheus\source\OvcTimer.pas
+Copied:           F:\NDAS-I\d7\Projects\TP\Orpheus\source\OvcUser.pas
+Copied:           F:\NDAS-I\d7\Projects\TP\Orpheus\source\OvcVer.pas
+Copied:           F:\NDAS-I\d7\Projects\MyUtils\SoftReg.pas
+Copied:           F:\NDAS-I\d7\Projects\TP\SysTools\source\StBase.pas
+Copied:           F:\NDAS-I\d7\Projects\TP\SysTools\source\StConst.pas
+Copied:           F:\NDAS-I\d7\Projects\TP\SysTools\source\StStrL.pas
+Copied:           F:\NDAS-I\d7\Projects\TP\SysTools\source\StStrZ.pas
+Copied:           F:\NDAS-I\d7\Projects\Browser\uBDEInfo.pas
+Copied:           F:\NDAS-I\d7\Projects\Browser\uBDEInfo.dfm
+Copied:           F:\NDAS-I\d7\Projects\Browser\uBrowseMemo.pas
+Copied:           F:\NDAS-I\d7\Projects\Browser\uBrowseMemo.dfm
+Copied:           F:\NDAS-I\d7\Projects\Browser\uBrowser.pas
+Copied:           F:\NDAS-I\d7\Projects\Browser\uBrowser.dfm
