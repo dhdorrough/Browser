@@ -1,4 +1,4 @@
-// Program was compiled with Delphi7.0 (Build 8.1)
+// Program was compiled with Delphi 7.0 (Build 8.1)
 // Program uses Turbo Power Orpheus library (available on SourceForge)
 // Program uses Turbo Power Systools library (available on SourceForge)
 {$Define pos}
